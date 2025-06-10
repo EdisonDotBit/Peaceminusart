@@ -8,4 +8,4 @@ Artminusone – A web-based art platform designed to provide high-quality art co
 
 The theme and website name is similar to peaecminusone. Basically the website is just an inspired theme and name from G-DRAGON's peaceminusone. I'm a big fan of G-DRAGON btw.
 
-Live View: https://edisondotbit.github.io/peaceminusart or https://edisondotbit.github.io/peaceminusart/home.html
+Live View: https://edisondotbit.github.io/artminusone or https://edisondotbit.github.io/artminusone/home.html
